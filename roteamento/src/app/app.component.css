@@ -1,0 +1,16 @@
+.navbar {
+ background-color: antiquewhite;
+ padding: 2rem;
+}
+
+.navbar > ul {
+ display: flex;
+ justify-content: center;
+ gap: 2rem;
+ list-style: none;
+}
+
+.navbar ul li a {
+ text-decoration: none;
+ font-size: 1.3rem;
+}
